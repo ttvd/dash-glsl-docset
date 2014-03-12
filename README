@@ -6,5 +6,4 @@ All non-glsl entries were ignored, there's a separate docset for GL specific ent
 Generating script can be found in GLSL4.docset/Contents/Resources/extract_glsl_docs.rb
 
 This docset is distributed under BSD License.
-Khronos OpenGL material is Copyright © 2011-2013 Khronos Group and is distributed under 
-Open Publication License, v 1.0, 8 June 1999.
+Khronos OpenGL material is Copyright © 2011-2013 Khronos Group and is distributed under Open Publication License, v 1.0, 8 June 1999.
