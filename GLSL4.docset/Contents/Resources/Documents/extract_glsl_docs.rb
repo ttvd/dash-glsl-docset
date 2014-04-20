@@ -56,6 +56,6 @@ a.get(EXTRACT_GLSL_PAGE + "/indexflat.php") do |page|
         # Insert into db.
         db.execute "INSERT OR IGNORE INTO searchIndex(name, type, path) VALUES ('#{link.to_s}', 'Function', '#{link_file}');"
     end
-
-    db.close
 end
+
+db.close
